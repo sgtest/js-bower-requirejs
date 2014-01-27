@@ -3,7 +3,7 @@ define(['./other'], function(other) {
   other.b();
   return {
     hello: 'world',
-    foo: function(),
+    foo: function() {},
     other: other,
   };
 });
