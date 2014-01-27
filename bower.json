@@ -1,0 +1,16 @@
+{
+  "name": "js-bower-requirejs",
+  "version": "0.0.1",
+  "authors": [
+    "Quinn Slack <qslack@qslack.com>"
+  ],
+  "main": "core.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
